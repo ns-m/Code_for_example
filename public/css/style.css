@@ -1,9 +1,4 @@
-/*--------------------- Copyright (c) 2017 -----------------------
-------------------------------------------------------------------
-[Master Stylesheet]
-
-Project: Ice-Cream - ice-cream responsive Template
-Version: 1.0.0
+/*
 -------------------------------------------------------------------
 
 [Table of contents]
@@ -224,7 +219,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: rgba(0, 0, 0, 0.1);
+	background-color: rgba(0, 0, 0, 0.13);
 }
 .ice_banner_wrapper .overlay .chery{
 	position:absolute;
